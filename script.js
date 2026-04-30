@@ -49,11 +49,3 @@ function ativarMaquinaDeCliques() {
     });
 }
 carregarTimes();
-
-function spammar(){
-    alert("oi")
-}
-
-while (1===1){
-    spammar();
-}
